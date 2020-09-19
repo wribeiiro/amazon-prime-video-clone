@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const Slider = styled.header`
+export const Slider = styled.div`
 	.slider {
         display: block;
         height: 293px;

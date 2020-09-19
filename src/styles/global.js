@@ -22,6 +22,7 @@ export default createGlobalStyle`
         background: #0F171E;
         font-family: Arial, Helvetica, sans-serif;
         color: #FFF;
+        overflow-x: hidden;
     }
 
 `
