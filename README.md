@@ -3,7 +3,7 @@
 Project to train react skills (js, html, css) and api 
 
 # Screenshot
-![Screenshot](https://github.com/wribeiiro/amazon-prime-video-clone/blob/master/public/screenshot.gif)
+![Screenshot](https://github.com/wribeiiro/amazon-prime-video-clone/blob/master/screenshot.gif)
 
 # Getting started
 
