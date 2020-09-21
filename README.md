@@ -1,4 +1,4 @@
-# Amazon Prime Video Clone [![Deploy with Vercel](https://vercel.com/button)](https://react-weather-alpha.vercel.app/)
+# Amazon Prime Video Clone [![Deploy with Vercel](https://vercel.com/button)](https://amazon-prime-video-clone.vercel.app/)
 
 Project to react training skills (js, html, css) and api 
 
